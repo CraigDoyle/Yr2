@@ -4,9 +4,9 @@
 */
 public class Hello
 {
-	// prints a simple message…
+	// prints a simple messageï¿½
 	public static void main(String args[])
 	{
-		System.out.print("Hello, I’m a Java program\n");
+		System.out.print("Hello, Iï¿½m a Wayne Rooney\n");
 	}
 }
